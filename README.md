@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**webcat12345/webcat12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angular Expert
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I am Liu Zhang!
+I'm a passionate Angular developer with 10 years of experience building scalable and performant web applications. My focus is on creating clean, maintainable, and reusable code that is optimized for speed and efficiency. 
+ 
+I have a deep understanding of front-end technologies, including Angular, AngularJS, HTML5, CSS3, and JavaScript. I'm also proficient in developing APIs and back-end technologies like Node.js, Java, and PHP. My experience with database technologies like MySQL and MongoDB also allows me to use the right tools to ensure that the back-end of your application is running smoothly. 
+ 
+I'm a proactive learner who's always looking for opportunities to grow and improve my skills. I'm excited about staying up-to-date with the latest front-end development trends and technologies, and I'm always on the lookout for new and innovative ways to solve complex problems. 
+ 
+In addition to my development skills, I'm also a team player who enjoys working closely with clients and other developers. I have strong communication skills, which allow me to understand the client's needs and provide them with regular updates throughout the development process. 
+ 
+If you're looking for a skilled Angular developer, I would love to have the opportunity to work with you. Please check out my Github profile to see examples of my work and feel free to get in touch with me to discuss how I can help you achieve your goals.
