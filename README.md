@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Angular Expert
+### Professional Angular Developer
 
 Hi, I am Liu Zhang!
 I'm a passionate Angular developer with 10 years of experience building scalable and performant web applications. My focus is on creating clean, maintainable, and reusable code that is optimized for speed and efficiency. 
