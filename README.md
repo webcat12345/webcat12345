@@ -12,3 +12,5 @@ I'm a proactive learner who's always looking for opportunities to grow and impro
 In addition to my development skills, I'm also a team player who enjoys working closely with clients and other developers. I have strong communication skills, which allow me to understand the client's needs and provide them with regular updates throughout the development process. 
  
 If you're looking for a skilled Angular developer, I would love to have the opportunity to work with you. Please check out my Github profile to see examples of my work and feel free to get in touch with me to discuss how I can help you achieve your goals.
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=webcat12345"></img>
