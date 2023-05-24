@@ -12,3 +12,7 @@ In addition to my development skills, I'm also a team player who enjoys working 
 If you're looking for a skilled Angular developer, I would love to have the opportunity to work with you. Please check out my Github profile to see examples of my work and feel free to get in touch with me to discuss how I can help you achieve your goals.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=webcat12345"></img>
+<div>
+    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucky-bruce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
