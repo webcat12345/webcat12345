@@ -13,6 +13,6 @@ If you're looking for a skilled Angular developer, I would love to have the oppo
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=webcat12345"></img>
 <div>
-    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucky-bruce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webcat12345&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=webcat12345&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
